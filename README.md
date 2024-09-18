@@ -6,20 +6,20 @@ Write-up pengerjaan soal shift modul 1 praktikum Jaringan Komputer kelompok IT20
 2. solo mode :)
 
 ## Soal yang dikerjakan selama praktikum
-# 1. Advance Sanity Check
+### 1. Advance Sanity Check
 <a img = "Screenshots\Advance Sanity Check.png"></a>
 
-# 2. Packet barrage
+### 2. Packet barrage
 
-# 3. FTP login
+### 3. FTP login
 
-# 4. Corporate Breach
+### 4. Corporate Breach
 
-# 5. Pegawai Negeri sebelah
+### 5. Pegawai Negeri sebelah
 
-# 6. EZ
+### 6. EZ
 
-# 7. Gajah Terbang (Server Recon)
+### 7. Gajah Terbang (Server Recon)
 
 ## penutup
 Sekian pengerjaan dari kami Terima Kasih
