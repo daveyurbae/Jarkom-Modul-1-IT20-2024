@@ -7,6 +7,7 @@ Write-up pengerjaan soal shift modul 1 praktikum Jaringan Komputer kelompok IT20
 
 ## Soal yang dikerjakan selama praktikum
 # 1. Advance Sanity Check
+<a img = "Screenshots\Advance Sanity Check.png"></a>
 
 # 2. Packet barrage
 
