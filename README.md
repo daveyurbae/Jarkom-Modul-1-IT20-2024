@@ -10,7 +10,7 @@ Write-up pengerjaan soal shift modul 1 praktikum Jaringan Komputer kelompok IT20
 ![Advance Sanity Check 2](https://github.com/user-attachments/assets/515860f9-2eb0-4cb6-ba69-90d6be3bf022)
 
 pada soal ini ditanyakan beberapa pertanyaan yang harus dijawab terlebih dahulu sebelum mendapatkan flag buat selanjutnya diinput pada platform soal shift, antara lain:
-- apa username pengirim?
+- apa username pengirim?<br>
 jawaban: JaneD03
 ![Screenshot 2024-09-22 073403](https://github.com/user-attachments/assets/ad44101a-ee13-4d8a-a1e5-b72a5d982e27)
 user name sendiri tertera pada stream ke 3 paket TCP bisa dilihat seperti gambar diatas ada keterangan username dengan nama JaneD03
