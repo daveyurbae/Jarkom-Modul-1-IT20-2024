@@ -29,6 +29,23 @@ saya mendapatkan pesan rahasi yang ada pada peraturan soal shift yang selanjutny
 ### 2. Packet barrage
 ![Advance Sanity Check](https://github.com/user-attachments/assets/0a4efbe0-9554-4bfb-9955-8ae5ffc256c7)
 
+pertanyaan yang perlu dijawab untuk mendapat flag yaitu:
+- Apa IP address dari attacker?<br>
+jawaban: 172.21.80.1
+![Screenshot 2024-09-22 080451](https://github.com/user-attachments/assets/e2af0201-7d4d-4ff1-8daa-e6020f720b7d)<br>
+saya mengubah file paket stream TCP dalam forma YAML untuk mengecek source dari paket yang dikirimkan oleh attacker gambar tersebut tertera IP address dari attacker.<br>
+
+- Berapa total attempt dari bruteforce attacker?<br>
+jawaban: 1917<br>
+
+- Apa nama file yang didownload oleh attacker setelah berhasil login?<br>
+jawaban: Albatros.txt<br>
+
+- Apa isi dari file yang disisipkan oleh attacker?<br>
+jawaban: Der Rote Kampfflieger<br>
+![Screenshot 2024-09-22 081151](https://github.com/user-attachments/assets/d789c434-e59a-4543-8a1e-db85795d3255)<br>
+
+
 ### 3. FTP login
 ![FTP login](https://github.com/user-attachments/assets/38d540a7-bdbd-43e3-b30c-2d7f60c3a847)
 
