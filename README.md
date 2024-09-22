@@ -93,10 +93,48 @@ jawaban: Cici Mustofa<br>
 jawaban: RyxaJPv^yF<br>
 
 ### 6. EZ
-![EZ](https://github.com/user-attachments/assets/d6007205-3249-4314-94b6-0df18e82ccc2)
+![EZ](https://github.com/user-attachments/assets/d6007205-3249-4314-94b6-0df18e82ccc2)<br>
+
+pertanyaan yang perlu dijawab yaitu:
+
+- Temukan jawaban dari log tersebut?<br>
+jawaban: jawabannya jawaban<br>
+![Screenshot 2024-09-22 084253](https://github.com/user-attachments/assets/808aba9d-e6d5-445d-bf15-32351ff9f0fc)<br>
+
+- Port berapa yang digunakan service tersebut<br>
+jawaban: 1234<br>
+![Screenshot 2024-09-22 084440](https://github.com/user-attachments/assets/be9b1bb0-120b-44cb-b7cf-c63479cb79c1)<br>
 
 ### 7. Gajah Terbang (Server Recon)
-![Screenshot 2024-09-19 013551](https://github.com/user-attachments/assets/5a236189-4132-46cd-9ac0-a1472094633b)
+![Screenshot 2024-09-19 013551](https://github.com/user-attachments/assets/5a236189-4132-46cd-9ac0-a1472094633b)<br>
+
+pertanyaan yang perlu di jawab:<br>
+
+- Apa DBMS yang digunakan pada server tersebut?<br>
+jawaban: PostgreSQL<br>
+
+- Di port berapa DBMS server tersebut berjalan?<br>
+jawaban: 6969<br>
+
+- OS apa yang digunakan untuk server tersebut?<br>
+jawaban: Debian<br>
+
+- Apa credentials username DBMS valid yang digunakan?<br>
+jawaban: s1gm4<br>
+
+- Apa nama database yang digunakan?<br>
+jawaban: sigmaskibidigyatrizzzz<br>
+
+- Ada berapa banyak users dalam database tersebut?<br>
+jawaban: 4<br>
+
+- Apa email yang digunakan oleh admin?<br>
+jawaban: jojohermawan()@gmail.com<br>
+
+- Apa password yang digunakan oleh admin?
+jawaban: admin1234<br>
+
+![Screenshot 2024-09-22 084842](https://github.com/user-attachments/assets/2f57476f-a2b5-4b63-b57f-e5165bcbacbf)
 
 ## penutup
 Sekian pengerjaan dari kami Terima Kasih
