@@ -49,11 +49,48 @@ jawaban: Der Rote Kampfflieger<br>
 ### 3. FTP login
 ![FTP login](https://github.com/user-attachments/assets/38d540a7-bdbd-43e3-b30c-2d7f60c3a847)
 
+pertanyaan yang perlu dijawab yaitu:
+- Apa username yang berhasil digunakan untuk FTP login?<br>
+jawaban: sn34ky<br>
+
+- Apa password yang berhasil digunakan untuk FTP login?<br>
+jawaban: sup3rsn1ff3r<br>
+![Screenshot 2024-09-22 081831](https://github.com/user-attachments/assets/c5423a68-09b4-4f64-aa78-c6793e7bf3c3)
+
 ### 4. Corporate Breach
 ![Pegawai Negeri Sebelah](https://github.com/user-attachments/assets/4252dddc-2fc4-46b4-a149-ea3dbf0031f1)
 
+pertanyaan yang perlu dijawab yaitu:
+- Siapa nama attacker?<br>
+jawaban:Nakhimov<br>
+![image](https://github.com/user-attachments/assets/49a15f1d-c5a8-48dc-9d93-68298438de6f)<br>
+
+- Apa email yang digunakan untuk login?<br>
+jawaban: jarkomsupport()@gmail.com<br>
+
+- Apa password yang digunakan untuk login?
+jawaban: j4rk0mg4c0rbg<br>
+![Screenshot 2024-09-22 082644](https://github.com/user-attachments/assets/5f47d36c-a843-4f84-891d-d3a55242e1ca)
+
 ### 5. Pegawai Negeri sebelah
-![Pegawai Negeri Sebelah](https://github.com/user-attachments/assets/fe13cde0-feda-400c-b6e3-a7b6e7a55e44)
+![Pegawai Negeri Sebelah](https://github.com/user-attachments/assets/fe13cde0-feda-400c-b6e3-a7b6e7a55e44)<br>
+
+jawaban dari soal ini dapat ditemukan pada stream ke 1 paket TCP, yang dimana pada stream paket tersebut berisi semua jawaban yang dibutuhkan untuk dijawab agar bisa mendapat flag
+
+pertanyaan yang perlu dijawab agar mendapat flag:<br>
+- Siapa yang memiliki password nNnM%coQuF?<br>
+jawaban: Vero Tampubolon<br>
+![Screenshot 2024-09-22 083331](https://github.com/user-attachments/assets/53ed99f0-2ffe-4e77-ac0b-7567f0de5cdc)<br>
+
+- Apa jabatan dari Taufan Kuswandari?<br>
+jawaban: Analis Kebijakan<br>
+![Screenshot 2024-09-22 083543](https://github.com/user-attachments/assets/f60c0bb3-0c43-4232-adb7-92c2210d3ea2)<br>
+
+- Siapa yang paling awal di list?<br>
+jawaban: Cici Mustofa<br>
+
+- Apa password paling akhir dari list?<br>
+jawaban: RyxaJPv^yF<br>
 
 ### 6. EZ
 ![EZ](https://github.com/user-attachments/assets/d6007205-3249-4314-94b6-0df18e82ccc2)
